@@ -82,6 +82,7 @@ int main(int argc, char *argv[]) {
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/b251b8d5-42e4-4e57-8c85-28716d122a06)
 
 
 
